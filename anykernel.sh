@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel for sweet (Redmi Note 10 Pro/Pro Max)
+kernel.string=Kernel for Redmi Note 8/8T (ginkgo/willow)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=sweet
-device.name2=sweetin
+device.name1=ginkgo
+device.name2=willow
 supported.versions=13 - 17
 supported.patchlevels=
 supported.vendorpatchlevels=
