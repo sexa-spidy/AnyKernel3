@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel for sweet (Redmi Note 10 Pro/Pro Max)
+kernel.string=Kernel for Redmi Note 10 Pro/Pro Max (sweet/sweetin)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
