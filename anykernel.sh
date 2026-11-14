@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel for a51 (Galaxy A51)
+kernel.string=Kernel for Galaxy A51 4G (a51)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
