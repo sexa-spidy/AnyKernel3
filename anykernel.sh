@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel by Oggy
+kernel.string=Kernel for Redmi Note 7 Pro (violet)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
